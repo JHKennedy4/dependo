@@ -1,6 +1,9 @@
-dependo
+dependid
 ===========
 
+A fork of the popular dependo CLI tool. The goal of this project is to provide a more full featured interactive visualization for large scale software projects with hundreds of dependencies and multiple levels of abstraction.
+
+From the dependo docs:
 Visualize your CommonJS or AMD module dependencies in a force directed graph report - powered by [D3.js](http://d3js.org/).
 
 Introduction
